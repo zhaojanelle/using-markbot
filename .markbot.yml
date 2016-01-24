@@ -1,0 +1,11 @@
+repo: "using-markbot"
+canvasCourse: "467502"
+canvasAssignment: "4256646"
+
+naming: true
+commits: 2
+
+html:
+  - path: "index.html"
+    search:
+      - "Hello World!"
