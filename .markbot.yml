@@ -2,7 +2,12 @@ repo: "using-markbot"
 canvasCourse: "web-dev-1"
 
 naming: true
-commits: 2
+restrictFileTypes: true
+
+git:
+  numCommits: 2
+  allCommitted: true
+  allSynced: true
 
 html:
   - path: "index.html"
